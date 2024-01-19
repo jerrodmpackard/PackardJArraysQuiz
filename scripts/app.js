@@ -37,8 +37,10 @@ getData();
 
 // getPeopleAge();
 
-for(let i = 0; i < people.length; i++){
-    console.log()
-}
+// for(let i = 0; i < people.length; i++){
+//     console.log(people[i].age);
+// }
 
-console.log(filterArray);
+// people.forEach(person => console.log(person));
+
+// console.log(people.age);
